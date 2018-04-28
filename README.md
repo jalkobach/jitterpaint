@@ -2,7 +2,8 @@
 
 A silly little drawing program that likes to jitter. Paint and export to GIF.
 ![An example][example]
-_**BUILT AROUND THE GAMEPAD API! Designed for use with a wired Xbox 360 controller.**_
+
+**BUILT AROUND THE GAMEPAD API! Designed for use with a wired Xbox 360 controller.**
 
 [_Try it out now._][1]
 
